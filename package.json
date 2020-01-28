@@ -1,0 +1,25 @@
+{
+  "name": "openstad-bundle",
+  "version": "0.0.1",
+  "description": "Installatie bundle voor het OpenStad Ecosysteem",
+  "main": "index.js",
+  "scripts": {
+    "init-all": "node ./scripts/init-all.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amsterdam/openstad-bundle.git"
+  },
+  "author": "OpenStad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amsterdam/openstad-bundle/issues"
+  },
+  "homepage": "https://github.com/Amsterdam/openstad-bundle#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^2.2.33",
+    "mysql-promise": "^5.0.0"
+  }
+}

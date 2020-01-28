@@ -1,0 +1,9 @@
+[submodule "openstad-image-server"]
+	path = openstad-image-server
+	url = git@github.com:Amsterdam/openstad-image-server.git
+[submodule "openstad-api"]
+	path = openstad-api
+	url = git@github.com:Amsterdam/openstad-api.git
+[submodule "openstad-frontend"]
+	path = openstad-frontend
+	url = git@github.com:Amsterdam/openstad-frontend.git
