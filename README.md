@@ -5,8 +5,8 @@ Deze module combineert de verschillende servers en modules uit het OpenStad Ecos
 ## 1. Download en initieer de code
 
 ```
-git clone git@github.com:Amsterdam/openstad-bundle.git
-cd openstad-bundle
+git clone git@github.com:Amsterdam/openstad-ecosystem-bundle.git
+cd openstad-ecosystem-bundle
 git submodule init
 git submodule update
 npm i
