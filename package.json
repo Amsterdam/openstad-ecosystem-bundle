@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Amsterdam/openstad-ecosystem-bundle#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.1.13",
     "mysql-promise": "^5.0.0"
   }
 }
