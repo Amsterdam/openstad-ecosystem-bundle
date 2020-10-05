@@ -1,3 +1,5 @@
+# Deprecated. Deze module is oud. Zie https://github.com/Amsterdam/openstad-kubernetes voor een nieuwere versie.
+
 # OpenStad bundle
 
 Deze module combineert de verschillende servers en modules uit het OpenStad Ecosystem, teneinde de installatie van het hele pakket iets eenvoudiger te maken.
